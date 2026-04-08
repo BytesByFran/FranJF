@@ -19,8 +19,8 @@ Actualmente enfocado en el ecosistema de Python, con amplia experiencia en el de
 [![Golang](https://img.shields.io/badge/golang-1aa7ec?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 
 ## 🌐 Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco-Castillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-javier-castillo-fernandez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FranJF-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-javier-castillo-fernandez)
 
 ### 📊 Estadísticas:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BytesByFran&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BytesByFran&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BytesByFran&theme=kanawa&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
