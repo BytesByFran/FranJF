@@ -6,7 +6,6 @@ A lo largo de estos años, he transformado mi metodología de trabajo priorizand
 
 🛠️ Stack Tecnológico:
 Actualmente enfocado en el ecosistema de Python, con amplia experiencia en el desarrollo de APIs y aplicaciones escalables.
-
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  
 [![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]() 
 [![Django-REST](https://img.shields.io/badge/REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
@@ -21,5 +20,5 @@ Actualmente enfocado en el ecosistema de Python, con amplia experiencia en el de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FranJF-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-javier-castillo-fernandez)
 
 ### 📊 Estadísticas:
-![](https://github-readme-streak-stats.herokuapp.com/?user=FranJF&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranJF&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BytesByFran&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BytesByFran&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
