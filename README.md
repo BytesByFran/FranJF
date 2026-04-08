@@ -8,10 +8,10 @@ A lo largo de estos años, he transformado mi metodología de trabajo priorizand
 Actualmente enfocado en el ecosistema de Python, con amplia experiencia en el desarrollo de APIs y aplicaciones escalables.
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]() 
 [![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]() 
 [![Django-REST](https://img.shields.io/badge/REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]() 
 
 
 🚀 Actualmente profundizando en:
