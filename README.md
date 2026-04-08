@@ -5,6 +5,7 @@ Desarrollador de software con trayectoria iniciada en 2019. Mi camino comenzó c
 A lo largo de estos años, he transformado mi metodología de trabajo priorizando el dominio de las herramientas y la agilidad técnica. Soy un entusiasta del flujo de trabajo en Neovim y de la mejora continua en la eficiencia de escritura y desarrollo. Me motiva construir proyectos que no solo funcionen, sino que estén respaldados por buenas prácticas y un conocimiento profundo del stack.
 
 🛠️ Stack Tecnológico:
+
 Actualmente enfocado en el ecosistema de Python, con amplia experiencia en el desarrollo de APIs y aplicaciones escalables.
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  [![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()  [![Django-REST](https://img.shields.io/badge/REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]() [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
