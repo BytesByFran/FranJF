@@ -10,6 +10,7 @@ Actualmente enfocado en el ecosistema de Python, con amplia experiencia en el de
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  [![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()  [![Django-REST](https://img.shields.io/badge/REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]() [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
 
 [![Postgresql](https://img.shields.io/badge/Posgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]() [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
 [![Neovim](https://img.shields.io/badge/Neovim-2a6f21?style=for-the-badge&logo=neovim&logoColor=white&labelColor=101010)]()
 
 
@@ -18,7 +19,7 @@ Actualmente enfocado en el ecosistema de Python, con amplia experiencia en el de
 [![Golang](https://img.shields.io/badge/golang-1aa7ec?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 
 ## 🌐 Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FranJF-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-javier-castillo-fernandez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco-Castillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-javier-castillo-fernandez)
 
 ### 📊 Estadísticas:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BytesByFran&theme=dark&hide_border=true)<br/>
